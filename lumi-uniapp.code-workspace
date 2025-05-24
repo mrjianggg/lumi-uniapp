@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../esp-idf-provisioning-android"
+		},
+		{
+			"path": "../esp-idf"
+		}
+	],
+	"settings": {}
+}
